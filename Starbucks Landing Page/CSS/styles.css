@@ -1,0 +1,88 @@
+body{
+	background-color: #017143;
+	font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.Top{
+	background-color: beige;
+	padding-top: 2rem;
+	padding-bottom: 0;
+
+}
+
+.navBarLogo{
+	height: 3rem;
+}
+
+.coffee-banner{
+	height: 28rem;
+	padding-top: 3rem;
+}
+
+.socialMediaIcons{
+	display: block;
+	padding-top: 2rem;
+	height: 3rem;
+	
+}
+
+.socialMediadiv{
+	padding-top: 8rem;
+
+}
+
+.BannerText{
+	
+	padding: 5rem;
+
+}
+
+.bannerHeading{
+	font-size: 3rem;
+
+}
+
+.bannerText{
+	font-size: 0.8rem;
+}
+
+.Starbucks{
+	font-weight: bold;
+	color: #017143;
+}
+
+.container-md{
+	background-color: beige;
+}
+
+.navbar-expand-lg{
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+.navButtons:hover{
+	background-color: #017143;
+	color: white;
+	border: none;
+}
+
+.thumbNailIcons{
+	height: 4rem;
+	padding-right: 2rem;
+	padding-bottom: 1rem;
+	
+
+}
+
+.Middle{
+	text-align: center;
+	background-color: beige;
+	padding-top: 0rem;
+	margin-bottom: 2rem;
+
+}
+
+.thumbNailIcons:hover{
+	height: 7rem;
+	padding-bottom: 2rem;
+}
